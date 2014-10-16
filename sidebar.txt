@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[afg:home|Door43 (afg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-afg|d43-afg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-afg/archive/master.zip|d43-afg.zip]]
+
+**Recent Changes**
+{{changes>ns = afg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/afg|Ethnologue data]]
+
